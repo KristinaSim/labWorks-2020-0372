@@ -31,6 +31,6 @@ int main() {
 		default:
 			cout << " Sign unrecognised " << endl;
 		} 
-	} while (ch != 27);
+	} while (ch != 32);
 		return 0; 
 	} 
